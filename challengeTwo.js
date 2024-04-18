@@ -16,5 +16,3 @@ const createCounter = function(n){
 let counter = createCounter(10);
 console.log(counter());
 console.log(counter());
-console.log(counter());
-
